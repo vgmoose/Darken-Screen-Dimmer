@@ -10,3 +10,6 @@ After running the app, click the crescent moon in the status bar to get a slider
 It is recommended to turn down the screen brightness completely first.
 
 If you prefer a specific color overlay instead, you can use the Accessibiliy settings within macOS. For some reason, these filters are not able to do darker colors (unlike on iOS), which is where this app comes in.
+
+## Download
+The latest release is available on [this page](https://github.com/vgmoose/Darken-Screen-Dimmer/releases).
